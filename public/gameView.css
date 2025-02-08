@@ -1,0 +1,10 @@
+.team
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.player_from_team
+{
+    margin: 10px 25px 10px 25px;
+}
